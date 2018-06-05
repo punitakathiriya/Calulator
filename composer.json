@@ -1,0 +1,12 @@
+{
+    "name": "punit/calculator",
+    "description": "packdge development demo for calculator",
+    "authors": [
+        {
+            "name": "punit kathiriya",
+            "email": "punit@whiteorangesoftware.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
